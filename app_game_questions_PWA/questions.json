@@ -1,0 +1,20 @@
+[
+    {
+        "points": 10,
+        "question": "What is the capital of France?",
+        "answers": ["Paris", "London", "Berlin", "Madrid"],
+        "correctAnswer": 0
+    },
+    {
+        "points": 5,
+        "question": "What is 2 + 2?",
+        "answers": ["3", "4", "5", "6"],
+        "correctAnswer": 1
+    },
+    {
+        "points": 15,
+        "question": "What is the largest planet in our Solar System?",
+        "answers": ["Earth", "Venus", "Jupiter", "Mars"],
+        "correctAnswer": 2
+    }
+]

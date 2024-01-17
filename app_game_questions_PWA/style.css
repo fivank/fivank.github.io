@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#game-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#timer, #score, #feedback {
+    margin-top: 20px;
+}
